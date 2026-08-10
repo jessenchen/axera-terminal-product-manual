@@ -6,8 +6,8 @@
 
 ```{toctree}
 :maxdepth: 1
-
-ipc场景内存与功耗
+:caption: 芯片规格子项
+2_2_ipc_memory_power/ipc场景内存与功耗
 ```
 
 **本章内容**
