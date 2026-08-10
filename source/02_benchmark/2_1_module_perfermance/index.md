@@ -5,7 +5,8 @@
 
 ```{toctree}
 :maxdepth: 1
-   cpu
-   memory
-   peripheral
+
+cpu
+memory
+peripheral
 ```
