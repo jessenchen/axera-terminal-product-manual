@@ -1,17 +1,11 @@
-# 性能与基准测试
+CPU 规格
+========
 
-本章整理 AXERA 芯片在 CNN/Transformer 与大模型 (LLM/VLM) 上的实测性能，并记录 OS:CMM、卡端 DDR、固件/驱动等复现所需的环境信息。
+AXERA 终端计算芯片采用高性能 ARM 架构处理器，具体参数如下：
 
-目前已收录的数据主要来自 [ax-samples](https://github.com/AXERA-TECH/ax-samples)，后续会随工具链和模型适配进展继续补充。
+- 核心数：双核 Cortex-A53
+- 主频：最高 1.2 GHz
+- 缓存：L1 32KB I/D，L2 512KB
+- 支持 NEON 加速
 
-```{toctree}
-:maxdepth: 2
-
-module_spec
-```
-
-**本章内容**
-
-- **Benchmark 综述**：测试条件、环境信息与数据记录规范，并说明 AX650 的时钟、NPU DDR 带宽及带宽限制检查方法。
-- **CNN/Transformer 性能**：典型视觉模型推理速度与能效比。
-- **LLM/VLM 性能**：解码速度 (tokens/s)、首字延迟、并发路数与内存占用。
+更多详细信息请参考芯片数据手册。
