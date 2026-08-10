@@ -7,7 +7,7 @@
 ```{toctree}
 :maxdepth: 2
 
-ipc场景与功耗
+chip_spec
 ```
 
 **本章内容**
