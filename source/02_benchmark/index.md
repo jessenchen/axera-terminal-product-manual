@@ -7,8 +7,8 @@
 ```{toctree}
 :maxdepth: 2
 
-module_spec
-chip_spec
+2_1_module_overview
+2_2_ipc_memory_power
 ```
 
 **本章内容**
