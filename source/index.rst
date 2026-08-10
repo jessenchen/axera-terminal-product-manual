@@ -17,7 +17,7 @@ AXERA 终端计算产品线用户使用文档
   :name: Contents
 
   01_overview/index
-  02_benchmark/index
+  02_benchmark/2_1_module_overview/index
   03_quick_start/index
   04_hardware/index
   05_software/index
