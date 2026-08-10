@@ -7,8 +7,8 @@
 ```{toctree}
 :maxdepth: 1
 
-2_1_module_overview
-2_2_ipc_memory_power
+2_1_module_overview/index.md
+2_2_ipc_memory_power/index.md
 ```
 
 **本章内容**
