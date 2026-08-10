@@ -6,6 +6,7 @@
 
 ```{toctree}
 :maxdepth: 2
+:caption: 本章内容
 
 chip_spec
 ```
