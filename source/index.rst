@@ -11,7 +11,7 @@ AXERA 终端计算产品线用户使用文档
   release_notes
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 3
   :numbered: 3
   :caption: 目录
   :name: Contents
