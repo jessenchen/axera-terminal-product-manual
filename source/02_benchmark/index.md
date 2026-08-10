@@ -5,10 +5,10 @@
 目前已收录的数据主要来自 [ax-samples](https://github.com/AXERA-TECH/ax-samples)，后续会随工具链和模型适配进展继续补充。
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 
-2_1_module_overview/index
-2_2_ipc_memory_power/index
+module_spec
+chip_spec
 ```
 
 **本章内容**
