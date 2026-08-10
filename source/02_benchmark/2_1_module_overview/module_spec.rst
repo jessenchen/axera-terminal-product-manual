@@ -6,8 +6,8 @@
 
 ```{toctree}
 :maxdepth: 2
-
-模块性能介绍
+:caption: 芯片规格子项
+2_1_module_overview/模块性能介绍
 ```
 
 **本章内容**
