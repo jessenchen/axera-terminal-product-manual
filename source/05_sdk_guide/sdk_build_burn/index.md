@@ -3,9 +3,9 @@
 ```{toctree}
 :maxdepth: 1
 
-ax620_630_sdk_build_burn_config
-ax615_sdk_build_burn_config
-ax637_sdk_build_burn_config
+ax620_630_sdk_build_burn
+ax615_sdk_build_burn
+ax637_sdk_build_burn
 ```
 **章节目录**
 
