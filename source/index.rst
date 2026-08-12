@@ -23,6 +23,6 @@ AXERA 终端计算产品线用户使用文档
   05_sdk_guide/index
   06_samples/index
   07_solutions/index
-  08_peripheral/index
+  08_peripheral_userManual/index
   09_3rdparty_solutions/index
   10_community/index
