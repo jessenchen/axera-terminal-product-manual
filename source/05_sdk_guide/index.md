@@ -1,13 +1,17 @@
 # SDK使用入门
 
-本章整理 AXERA 芯片在 CNN/Transformer 与大模型 (LLM/VLM) 上的实测性能，并记录 OS:CMM、卡端 DDR、固件/驱动等复现所需的环境信息。
-
-目前已收录的数据主要来自 [ax-samples](https://github.com/AXERA-TECH/ax-samples)，后续会随工具链和模型适配进展继续补充。
+本章整理终端计算产品线芯片对应SDK的入门介绍，重点介绍SDK的获取途径、安装环境、编译工具链使用与安装、以及编译完SDK对应生成文件、工具在哪儿获取
 
 ```{toctree}
 :maxdepth: 1
 
-software_environment_bringUp
-sdk_doc_overview
-sdk_build_burn
+software_env_build/index
+sdk_doc_overview/index
+sdk_build_burn/index
 ```
+
+**章节目录**
+
+**章节内容**
+
+**问题导航**
