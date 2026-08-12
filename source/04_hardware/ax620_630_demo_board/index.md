@@ -3,13 +3,13 @@
 ```{toctree}
 :maxdepth: 1
 
-demo_board_default_config
-demo_board_boot_burn_config
-single_camera_config
-double_camera_config
-auido_config
-display_config
-dynamic_voltage_config
+ax620_630_demo_board_default_config
+ax620_630_demo_board_boot_burn_config
+ax620_630_single_camera_config
+ax620_630_double_camera_config
+ax620_630_auido_config
+ax620_630_display_config
+ax620_630_dynamic_voltage_config
 ```
 **章节目录**
 
