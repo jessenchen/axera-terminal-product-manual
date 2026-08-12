@@ -3,9 +3,10 @@
 ```{toctree}
 :maxdepth: 1
 
-ax620_630_peripheral_addr_map
-ax615_peripheral_addr_map
-ax637_peripheral_addr_map
+peripheral_addr_map
+pin_config_guide
+chip_reset_source
+chip_wakeup_source
 ```
 **章节目录**
 
