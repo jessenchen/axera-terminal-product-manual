@@ -20,7 +20,6 @@ AXERA 终端计算产品线用户使用文档
   02_performance_overview/index
   03_quick_start/index
   04_hardware/index
-  05_software/index
   05_sdk_guide/index
   06_samples/index
   07_solutions/index
