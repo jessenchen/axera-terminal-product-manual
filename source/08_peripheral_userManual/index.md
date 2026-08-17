@@ -8,6 +8,7 @@ emmc_adaptation_guide/index
 ddr_adaptation_guide/index
 iic_config_guide/index
 spi_config_guide/index
+uart_config_guide/index
 wdt_config_guide/index
 timer_config_guide/index
 pwm_config_guide/index
