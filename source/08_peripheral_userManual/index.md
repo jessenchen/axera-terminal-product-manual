@@ -17,6 +17,7 @@ usb_config_guide/index
 sdio_config_guide/index
 eth_config_guide/index
 iis_config_guide/index
+mipi_config_guide/index
 hdmi_config_guide/index
 pcie_config_guide/index
 
