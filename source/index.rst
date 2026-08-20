@@ -24,5 +24,16 @@ AXERA 终端计算产品线用户使用文档
   06_samples/index
   07_solutions/index
   08_peripheral_userManual/index
-  09_3rdparty_solutions/index
-  10_community/index
+  09_multimedia_guide/index
+  10_codec_guide/index
+  11_audio_guide/index
+  12_display_vo_guide/index
+  13_sensor_image_isp_guide/index
+  14_axmodel_tools_guide/index
+  15_sample_guide/index
+  16_solution_guide/index
+  17_debug_guide/index
+  18_secure_boot/index
+  19_project_overview/index
+  20_customer_project_overview/index
+  21_faq_guide/index
