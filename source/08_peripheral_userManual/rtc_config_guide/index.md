@@ -3,6 +3,8 @@
 ```{toctree}
 :maxdepth: 1
 
+rtc_overview
+rtc_faq
 
 ```
 **章节目录**
