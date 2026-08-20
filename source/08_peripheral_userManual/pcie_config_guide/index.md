@@ -3,6 +3,8 @@
 ```{toctree}
 :maxdepth: 1
 
+pcie_overview
+pcie_faq
 
 ```
 **章节目录**
