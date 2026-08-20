@@ -3,6 +3,9 @@
 ```{toctree}
 :maxdepth: 1
 
+usb_overview
+usbtoFun_config
+usb_faq
 
 ```
 **章节目录**
