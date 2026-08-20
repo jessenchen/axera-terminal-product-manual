@@ -3,6 +3,8 @@
 ```{toctree}
 :maxdepth: 1
 
+ethernet_overview
+ethernet_faq
 
 ```
 **章节目录**
