@@ -3,6 +3,8 @@
 ```{toctree}
 :maxdepth: 1
 
+wdt_overview
+wdt_faq
 
 ```
 **章节目录**
