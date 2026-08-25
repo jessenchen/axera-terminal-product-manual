@@ -4,7 +4,7 @@
 :maxdepth: 2
 
 media_config_guide
-sensor_mipi_rx_guide
+sensor_mipiRx_guide
 vin_module_guide
 ivps_module_guide
 venc_module_guide
