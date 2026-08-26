@@ -5,7 +5,7 @@
 
 vo_diaplay_guide
 demo_board_vo_guide
-vo_debug_guide
+vo_screen_display_guide
 vo_faq
 
 ```
