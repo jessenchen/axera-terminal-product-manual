@@ -4,7 +4,9 @@
 :maxdepth: 1
 
 audio_overview_guide
-
+demo_board_audio_guide
+audio_debug_guide
+audio_faq
 
 ```
 **章节目录**
