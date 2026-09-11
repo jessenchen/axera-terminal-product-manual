@@ -1,7 +1,7 @@
 # 音频配置与调试指南
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 
 audio_overview_guide
 demo_board_audio_guide
