@@ -1,7 +1,7 @@
 # AX620/AX630 demo板配置指南
 
 ```{toctree}
-:maxdepth: 1
+:maxdepth: 2
 
 vo_diaplay_guide
 demo_board_vo_guide
