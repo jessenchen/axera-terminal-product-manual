@@ -3,9 +3,9 @@
 ```{toctree}
 :maxdepth: 2
 
-codec_overview_guide
-codec_debug_guide
-codec_debug_faq
+codec_overview_guide/index
+codec_debug_guide/index
+codec_debug_faq/index
 
 ```
 **章节目录**
