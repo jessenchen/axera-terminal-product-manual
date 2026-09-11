@@ -3,12 +3,12 @@
 ```{toctree}
 :maxdepth: 2
 
-media_config_guide
-sensor_mipiRx_guide
-vin_module_guide
-ivps_module_guide
-venc_module_guide
-isp_module_guide
+media_config_guide/index
+sensor_mipiRx_guide/index
+vin_module_guide/index
+ivps_module_guide/index
+venc_module_guide/index
+isp_module_guide/index
 
 ```
 **章节目录**
