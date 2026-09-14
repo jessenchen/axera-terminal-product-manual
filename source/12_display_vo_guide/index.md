@@ -3,10 +3,10 @@
 ```{toctree}
 :maxdepth: 2
 
-vo_diaplay_guide
-demo_board_vo_guide
-vo_screen_display_guide
-vo_faq
+vo_diaplay_guide/index
+demo_board_vo_guide/index
+vo_screen_display_guide/index
+vo_faq/index
 
 ```
 **章节目录**
