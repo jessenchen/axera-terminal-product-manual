@@ -34,6 +34,4 @@ AXERA 终端计算产品线用户使用文档
   16_solution_guide/index
   17_debug_guide/index
   18_secure_boot/index
-  19_project_overview/index
-  20_customer_project_overview/index
-  21_faq_guide/index
+  19_faq_guide/index
