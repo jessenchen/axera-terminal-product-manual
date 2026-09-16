@@ -1,4 +1,4 @@
-# AX620/AX630 demo板配置指南
+# 显示配置与调试指南
 
 ```{toctree}
 :maxdepth: 2
