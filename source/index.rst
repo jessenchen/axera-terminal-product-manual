@@ -28,7 +28,7 @@ AXERA 终端计算产品线用户使用文档
   10_codec_guide/index
   11_audio_guide/index
   12_display_vo_guide/index
-  13_sensor_image_isp_guide/index
+  13_sensor_image_isp_gudie/index
   14_axmodel_tools_guide/index
   15_sample_guide/index
   16_solution_guide/index
