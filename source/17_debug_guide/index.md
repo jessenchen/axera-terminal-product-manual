@@ -1,4 +1,4 @@
-# 系统、模块debug与log分析
+# 系统debug与log分析
 
 ```{toctree}
 :maxdepth: 2
